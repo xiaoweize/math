@@ -1,5 +1,5 @@
 package math
-package fmt
+import fmt
 
 func Add(a, b int) int {
 	fmt.Println("xiaoweize")
